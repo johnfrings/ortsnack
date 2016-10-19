@@ -3,18 +3,21 @@
 Ord | Betydelse |
 ------------- | ------------- |
 Aboow | "Oj! shit!", "Wow"
-Abri | Kompis
+Abri | Grabben, Kompis
+Aina | Polisen
 Araba | Bil
 Baba | Pappa
+Bakk | Kolla, Försvara, Ha någons rygg
+Bazza | Knulla
 Benim | Jag, Min
 Benso | Bensodiazepinpreparat
 Bram | Kompis, Bror
 Bre | Kompis
 Bror | Nära vän, bra kompis
 Brushan | "Brorsan", En kompis
-Bäzza | Knulla
 Chagga | Hora, Slampa, Prostituerad
 Cok | Mycket, "Fett", "Tjockt"
+Dabb | Stryk, Spö
 Dahro | Penis, Idiot
 Delli | Dum, Efterbliven
 Dunder | Extremt bra
@@ -29,7 +32,7 @@ Gawad | Hallick
 Gip (Jip) | Gå iväg, Sticka iväg
 Gitta | Gå iväg, Sticka iväg
 Gungish | Våg som används för att väga knark
-Guzz | Tjej
+Guzz (Guss) | Tjej
 Gändish | Alkoholhaltiga drycker
 Gäri | Tjej
 Gäähda | Fest
@@ -43,7 +46,7 @@ Hajde | Kom, Kom igen
 Hamish | 2,5 gram Hasch, En halv femma
 Holk | En pipa med cannabis
 Hämi | Snygg, Het
-Händish | Vad händer?
+Händish | (Vad) händer?
 Japp | Knulla
 Jetski | Fett, Mäktigt, Lyxigt
 Kabbe | 0,25 gram heroin i gelatinkapsel
@@ -61,6 +64,7 @@ Lahme | Kött (mat)
 Lallare | En person som är ivägen, som inte gör någon nytta
 Lallish | Oseriös(t)
 Latch | Lätt, Enkelt
+Len | Kompis
 Malakies | Plural av Malakka
 Malakka | Motsvarande engelskans "wanker"
 Mangaz | Stor, Tuff, Häftig
@@ -77,6 +81,7 @@ Röding | Femhundring
 Sallad | Cannabis, Marijuana
 Sharmoota | Hora
 Shuno (Shono) | Kille, Snubbe
+Sitta | Sitta i fängelse
 Spotta | Rappa
 Suedi | Svensk, Svenskt
 Tabanja | Pistol
@@ -85,8 +90,8 @@ Taman | Lagom
 Tjack | Amfetamin
 Vaket | Amfetamin
 Vitt | Amfetamin
-Walla | Jag svär, Jag lovar
-Yalla | Skynda
+Wallah | Jag svär vid gud, Jag lovar
+Yalla (Jalla) | Skynda
 Yani | Alltså (som "Asså, ..."), Det betyder...
 Yara | Cigarett(er)
 Zattla | Cannabis, Hasch
