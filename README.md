@@ -16,9 +16,7 @@ Bäzza | Knulla
 Chagga | Hora, Slampa, Prostituerad
 Cok | Mycket, "Fett", "Tjockt"
 Dahro | Penis, Idiot
-Deb | Debatterbart
 Delli | Dum, Efterbliven
-Dirr | Direkt
 Dunder | Extremt bra
 Femma | 5 gram Cannabis
 Fiffi | Vagina
