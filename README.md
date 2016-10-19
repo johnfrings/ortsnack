@@ -92,7 +92,7 @@ Vaket | Amfetamin
 Vitt | Amfetamin
 Wallah | Jag svär vid gud, Jag lovar
 Yalla (Jalla) | Skynda
-Yani | Alltså (som "Asså, ..."), Det betyder...
+Yani (yäni) | Alltså (som "Asså, ..."), Det betyder...
 Yara | Cigarett(er)
 Zattla | Cannabis, Hasch
 Zinji | Svart
