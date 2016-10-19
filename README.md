@@ -80,6 +80,7 @@ Re | (Bre), Kompis
 Röding | Femhundring
 Sallad | Cannabis, Marijuana
 Sharmoota | Hora
+Shishko | Överviktig, Tjock
 Shuno (Shono) | Kille, Snubbe
 Sitta | Sitta i fängelse
 Spotta | Rappa
