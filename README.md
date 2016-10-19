@@ -1,4 +1,4 @@
-# ortsnack
+# wallah, de cok ortsnack re. vad tror du?
 
 Ord | Betydelse |
 ------------- | ------------- |
