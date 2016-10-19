@@ -21,6 +21,7 @@ Orten | Förort
 Sallad | Cannabis, Marijuana
 Shuno (Shono) | Kille, Snubbe
 Tabanja | Pistol
+Yani | "Asså..", "Du vet.."
 Zattla | Cannabis, Hasch
 Zutt | Cannabis, Hasch
 
