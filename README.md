@@ -7,6 +7,7 @@ Abri | Grabben, Kompis
 Aina | Polisen
 Araba | Bil
 Baba | Pappa
+Baxa | Stjäla
 Bakk | Kolla, Försvara, Ha någons rygg
 Bazza | Knulla
 Benim | Jag, Min
@@ -82,6 +83,7 @@ Sallad | Cannabis, Marijuana
 Sharmoota | Hora
 Shishko | Överviktig, Tjock
 Shuno (Shono) | Kille, Snubbe
+Shurda | Grabb, Kille
 Sitta | Sitta i fängelse
 Spotta | Rappa
 Suedi | Svensk, Svenskt
