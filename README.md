@@ -49,6 +49,7 @@ Holk | En pipa med cannabis
 Hämi | Snygg, Het
 Händish | (Vad) händer?
 Japp | Knulla
+Jarak | Snopp
 Jetski | Fett, Mäktigt, Lyxigt
 Kabbe | 0,25 gram heroin i gelatinkapsel
 Kahba | Hora, Prostituerad
