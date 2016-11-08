@@ -32,6 +32,7 @@ Gash | Cigarett
 Gawad | Hallick
 Gip (Jip) | Gå iväg, Sticka iväg
 Gitta | Gå iväg, Sticka iväg
+Gola | Skvallra, Ange
 Gungish | Våg som används för att väga knark
 Guzz (Guss) | Tjej
 Gändish | Alkoholhaltiga drycker
@@ -43,6 +44,7 @@ Habbar | Bensodiazepinpreparat
 Habibi | Älskling
 Haffa | Ragga upp, Skaffa, (Förvärva)
 Haffla | Fest
+Haiwan | Djur
 Hajde | Kom, Kom igen
 Hamish | 2,5 gram Hasch, En halv femma
 Holk | En pipa med cannabis
@@ -69,8 +71,9 @@ Latch | Lätt, Enkelt
 Len | Kompis
 Malakies | Plural av Malakka
 Malakka | Motsvarande engelskans "wanker"
-Mangaz | Stor, Tuff, Häftig
+Mangaz | Stor, Tuff, Häftig, Ball
 Molly | Ecstacy, MDMA
+Mäka | Ragga, Flirta
 Obror | Ovänligt beteende
 Orre | Hora, Lösaktig
 Orten | Förort
