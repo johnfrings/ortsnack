@@ -74,6 +74,7 @@ Malakka | Motsvarande engelskans "wanker"
 Mangaz | Stor, Tuff, Häftig, Ball
 Molly | Ecstacy, MDMA
 Mäka | Ragga, Flirta
+Naknemo | Knulla din mamma
 Obror | Ovänligt beteende
 Orre | Hora, Lösaktig
 Orten | Förort
