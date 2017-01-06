@@ -5,6 +5,8 @@ Ord | Betydelse |
 Aboow | "Oj! shit!", "Wow"
 Abri | Grabben, Kompis
 Aina | Polisen
+Ajde | Skynda
+Anne | Mamma
 Araba | Bil
 Baba | Pappa
 Baxa | Stjäla
@@ -63,7 +65,7 @@ Kran (2) | Knarklangare
 Knappar | Ecstacy, MDMA
 Knatch | En liten bit hasch
 Kush | Stark marijuana (indica)
-Ladd | Kokain
+Ladd | Kokain (ibland Amfetamin)
 Lahme | Kött (mat)
 Lallare | En person som är ivägen, som inte gör någon nytta
 Lallish | Oseriös(t)
