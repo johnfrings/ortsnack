@@ -59,6 +59,7 @@ Jetski | Fett, Mäktigt, Lyxigt
 Kabbe | 0,25 gram heroin i gelatinkapsel
 Kahba | Hora, Prostituerad
 Kelb | Hund (skällsord, nedsättande)
+Khanzir | Arabiska för gris
 Klick (Clique) | En grupp människor, Ett gäng vänner
 Klippt | Stulen, Mördad
 Kran (1) | Näsa
