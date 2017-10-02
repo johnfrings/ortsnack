@@ -24,6 +24,7 @@ Cok | Mycket, "Fett", "Tjockt"
 Dabb | Stryk, Spö
 Dahro | Penis, Idiot
 Delli | Dum, Efterbliven
+Drifta | stjäla saker och sälja dem
 Dunder | Extremt bra
 Femma | 5 gram Cannabis
 Fiffi | Vagina
@@ -57,6 +58,7 @@ Händish | (Vad) händer?
 Japp | Knulla
 Jarak | Snopp
 Jetski | Fett, Mäktigt, Lyxigt
+Jonk | Vitt heroin
 Kabbe | 0,25 gram heroin i gelatinkapsel
 Kahba | Hora, Prostituerad
 Kelb | Hund (skällsord, nedsättande)
@@ -87,6 +89,7 @@ Para | Pengar
 Para fanns | Pank
 Para finns | Jag har mycket pengar, Har råd
 Paraknas | Pank, inte mycket pengar kvar
+Pix | Bensodiazepinpreparat
 Re | (Bre), Kompis
 Röding | Femhundring
 Sallad | Cannabis, Marijuana
