@@ -12,6 +12,7 @@ Baba | Pappa
 Baxa | Stjäla
 Bakk | Kolla, Försvara, Ha någons rygg
 Bazza | Knulla
+Beläsh | Gratis
 Benim | Jag, Min
 Benso | Bensodiazepinpreparat
 Bram | Kompis, Bror
