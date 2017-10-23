@@ -57,6 +57,7 @@ Hämi | Snygg, Het
 Händish | (Vad) händer?
 Japp | Knulla
 Jarak | Snopp
+Jayo | Kokain
 Jetski | Fett, Mäktigt, Lyxigt
 Jonk | Vitt heroin
 Kabbe | 0,25 gram heroin i gelatinkapsel
