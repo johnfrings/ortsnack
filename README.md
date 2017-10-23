@@ -96,6 +96,7 @@ Röding | Femhundring
 Sallad | Cannabis, Marijuana
 Sharmoota | Hora
 Shishko | Överviktig, Tjock
+Shouf | Kolla, spana in
 Shuno (Shono) | Kille, Snubbe
 Shurda | Grabb, Kille
 Sitta | Sitta i fängelse
