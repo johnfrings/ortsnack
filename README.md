@@ -50,7 +50,7 @@ Haffa | Ragga upp, Skaffa, (Förvärva)
 Haffla | Fest
 Haiwan | Djur
 Hajde | Kom, Kom igen
-Hamish | 2,5 gram Hasch, En halv femma
+Halvish | 2,5 gram Hasch, en halv femma
 Haram | Något förbjudet (för en muslim)
 Holk | En pipa med cannabis
 Hämi | Snygg, Het
