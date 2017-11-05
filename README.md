@@ -24,6 +24,7 @@ Cok | Mycket, "Fett", "Tjockt"
 Dabb | Stryk, Spö
 Dahro | Penis, Idiot
 Delli | Dum, Efterbliven
+Damma | Hetsäta, sluka
 Drifta | stjäla saker och sälja dem
 Dunder | Extremt bra
 Femma | 5 gram Cannabis
