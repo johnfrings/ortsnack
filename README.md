@@ -10,11 +10,10 @@ Ajde | Skynda
 Anne | Mamma
 Araba | Bil
 Baba | Pappa
-Baelesh | Gratis
 Baxa | Stjäla
 Bakk | Kolla, Försvara, Ha någons rygg
 Bazza | Knulla
-Beläsh | Gratis
+Beläsh/Baelesh | Gratis
 Benim | Jag, Min
 Benäät | tjejer
 Benso | Bensodiazepinpreparat
