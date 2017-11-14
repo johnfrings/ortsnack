@@ -4,22 +4,26 @@ Ord | Betydelse |
 ------------- | ------------- |
 Aboow | "Oj! shit!", "Wow"
 Abri | Grabben, Kompis
+Adey Mariam | Jag lovar, svär vid gud
 Aina | Polisen
 Ajde | Skynda
 Anne | Mamma
 Araba | Bil
 Baba | Pappa
+Baelesh | Gratis
 Baxa | Stjäla
 Bakk | Kolla, Försvara, Ha någons rygg
 Bazza | Knulla
 Beläsh | Gratis
 Benim | Jag, Min
+Benäät | tjejer
 Benso | Bensodiazepinpreparat
 Bram | Kompis, Bror
 Bre | Kompis
 Bror | Nära vän, bra kompis
 Brushan | "Brorsan", En kompis
 Chagga | Hora, Slampa, Prostituerad
+Chisko | Kraftigt överviktig person.
 Cok | Mycket, "Fett", "Tjockt"
 Dabb | Stryk, Spö
 Dahro | Penis, Idiot
@@ -44,7 +48,7 @@ Gändish | Alkoholhaltiga drycker
 Gäri | Tjej
 Gäähda | Fest
 Gönul | Tjejmustasch
-Gött | Stjärt, Rumpa
+Göt | Stjärt, Rumpa
 Habbar | Bensodiazepinpreparat
 Habibi | Älskling
 Haffa | Ragga upp, Skaffa, (Förvärva)
@@ -52,6 +56,7 @@ Haffla | Fest
 Haiwan | Djur
 Hajde | Kom, Kom igen
 Halvish | 2,5 gram Hasch, en halv femma
+Harakat | Rörelse (få något att hända)
 Haram | Något förbjudet (för en muslim)
 Holk | En pipa med cannabis
 Hämi | Snygg, Het
@@ -78,6 +83,7 @@ Lallare | En person som är ivägen, som inte gör någon nytta
 Lallish | Oseriös(t)
 Latch | Lätt, Enkelt
 Len | Kompis
+Majmun | Pajas, apa
 Malakies | Plural av Malakka
 Malakka | Motsvarande engelskans "wanker"
 Mangaz | Stor, Tuff, Häftig, Ball
@@ -92,6 +98,8 @@ Para fanns | Pank
 Para finns | Jag har mycket pengar, Har råd
 Paraknas | Pank, inte mycket pengar kvar
 Pix | Bensodiazepinpreparat
+Popo | Polis
+Rarrare | Rasist
 Re | (Bre), Kompis
 Röding | Femhundring
 Sallad | Cannabis, Marijuana
@@ -109,6 +117,7 @@ Taman | Lagom
 Tjack | Amfetamin
 Vaket | Amfetamin
 Vitt | Amfetamin
+Wahab | Dåligt beteende
 Wallah | Jag svär vid gud, Jag lovar
 Yalla (Jalla) | Skynda
 Yani (yäni) | Alltså (som "Asså, ..."), Det betyder...
