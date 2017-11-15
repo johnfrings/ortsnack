@@ -13,7 +13,7 @@ Baba | Pappa
 Baxa | Stjäla
 Bakk | Kolla, Försvara, Ha någons rygg
 Bazza | Knulla
-Beläsh/Baelesh | Gratis
+Beläsh (Baelesh) | Gratis
 Benim | Jag, Min
 Benäät | tjejer
 Benso | Bensodiazepinpreparat
