@@ -54,10 +54,11 @@ Haffa | Ragga upp, Skaffa, (Förvärva)
 Haffla | Fest
 Haiwan | Djur
 Hajde | Kom, Kom igen
+Holk | En pipa med cannabis
 Halvish | 2,5 gram Hasch, en halv femma
 Harakat | Rörelse (få något att hända)
 Haram | Något förbjudet (för en muslim)
-Holk | En pipa med cannabis
+Hassla | Lura (t.ex. lura på pengar)
 Hämi | Snygg, Het
 Händish | (Vad) händer?
 Japp | Knulla
