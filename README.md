@@ -38,7 +38,7 @@ Gaba | Slampa
 Gahla | Misshandla
 Gash | Cigarett
 Gawad | Hallick
-Gitti | ATt man är helt borta
+Gitti | Att man är helt borta
 Gip (Jip) | Gå iväg, Sticka iväg
 Gitta | Gå iväg, Sticka iväg
 Gola | Skvallra, Ange
