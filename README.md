@@ -38,6 +38,7 @@ Gaba | Slampa
 Gahla | Misshandla
 Gash | Cigarett
 Gawad | Hallick
+Gitti | ATt man är helt borta
 Gip (Jip) | Gå iväg, Sticka iväg
 Gitta | Gå iväg, Sticka iväg
 Gola | Skvallra, Ange
@@ -101,6 +102,7 @@ Pix | Bensodiazepinpreparat
 Popo | Polis
 Rarrare | Rasist
 Re | (Bre), Kompis
+Rizzla | Papper för Cannabis, Marijuana
 Röding | Femhundring
 Sallad | Cannabis, Marijuana
 Sharmoota | Hora
